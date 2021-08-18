@@ -1,4 +1,4 @@
-# MinecraftStrongholdCalculator
+# Minecraft Stronghold Calculator
 ---
 本程序可以通过您输入的多组末影之眼起落地坐标计算要塞的位置。
 

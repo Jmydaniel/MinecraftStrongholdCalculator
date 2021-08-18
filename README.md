@@ -16,19 +16,19 @@ To read the English version, Please move to the end of the document.
 
 4.在原地抛出末影之眼，将准星y轴(绿色)对准空中的末影之眼并尽量与其保持在一条直线上
 
-5.向正前移动10~20格(需确保未向左或右偏移)，记录坐标(Ax2,Ay2)
+5.向正前移动10-20格(需确保未向左或右偏移)，记录坐标(Ax2,Ay2)
 
 6.打开程序，点击开始，输入这两组坐标(Ax1,Ay1)和(Ax2,Ay2)，点击下一步
 
-7.向左或右移动80~120格(移动方向不要与之前末影水晶飞行方向水平，应有45~120度的角度)
+7.向左或右移动80-120格(移动方向不要与之前末影水晶飞行方向水平，应有45-120度的角度)
 
-8.重复4~7步骤执行两次，注意所有扔出的末影之眼应指向同一个要塞
+8.重复4-7步骤执行两次，注意所有扔出的末影之眼应指向同一个要塞
 
 9.将数据输入程序
 
 10.三组数据输入完成后，程序会给出误差报告，你可以使用校准来获得一个更精确的数据
 
-10.1.校准时，重复4~7步骤获取另一组数据并输入，如果方法正确，误差应该减小
+10.1.校准时，重复4-7步骤获取另一组数据并输入，如果方法正确，误差应该减小
 
 11.如果您能接受当前误差，点击查看结果，程序将为您计算要塞坐标
 
@@ -60,14 +60,14 @@ To read the English version, Please move to the end of the document.
 
 6. Open the program, click Start, enter these two sets of coordinates (Ax1,Ay1) and (Ax2,Ay2), click Next
 
-7. Move 80~120 grids to the left or right (the movement direction should not be level with the previous flight direction of the end crystal, there should be an angle of 45~120 degrees)
+7. Move 80-120 grids to the left or right (the movement direction should not be level with the previous flight direction of the end crystal, there should be an angle of 45-120 degrees)
 
-8. Repeat steps 4~7 twice, pay attention to all the thrown eyes of ender should point to the same fortress
+8. Repeat steps 4-7 twice, pay attention to all the thrown eyes of ender should point to the same fortress
 
 9. Enter data into the program
 
 10. After the three sets of data are entered, the program will give an error report. You can use calibration to obtain a more accurate data
 
-10.1. During calibration, repeat steps 4~7 to obtain another set of data and enter it. If the method is correct, the error should be reduced
+10.1. During calibration, repeat steps 4-7 to obtain another set of data and enter it. If the method is correct, the error should be reduced
 
 11. If you can accept the current error, click to view the result, the program will calculate the fortress coordinates for you 
